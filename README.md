@@ -12,3 +12,4 @@ Simple task management prototype.
 npm install
 npm run devDevelop branch change
 Feature branch change
+Develop conflict version
