@@ -10,4 +10,4 @@ Simple task management prototype.
 
 ## Run
 npm install
-npm run dev
+npm run devDevelop branch change
